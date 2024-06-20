@@ -1,6 +1,6 @@
 # Celestial Climb
 
-![Celestial Climb](celestialclimb.png)
+![Celestial Climb](/assets/celestialclimb.png)
 
 Celestial Climb é um jogo desenvolvido em Phaser, um framework JavaScript para criação de jogos HTML5. Este jogo é um platformer em estilo pixel com mecânicas avançadas de movimento, incluindo walljump e dash.
 
